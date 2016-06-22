@@ -4,3 +4,7 @@ build
 dist
 .idea
 .DS_Store
+example.com.crt
+example.com.key
+public/images/
+public/javascripts/
